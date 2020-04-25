@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="98.808034"
-     inkscape:cy="301.20339"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="352.50019"
+     inkscape:cy="332.53499"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -420,17 +420,17 @@
          id="tspan4930-4-9-3" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88222528px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04087258"
-       x="21.601349"
-       y="112.23187"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.68287158px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.03804557"
+       x="19.377993"
+       y="112.27383"
        id="text885-1"
-       inkscape:transform-center-x="-15.991996"
-       inkscape:transform-center-y="13.67431"><tspan
+       inkscape:transform-center-x="-14.885885"
+       inkscape:transform-center-y="12.728505"><tspan
          sodipodi:role="line"
          id="tspan883-5"
-         x="21.601349"
-         y="112.23187"
-         style="stroke-width:0.04087258">1.rotazione acqua </tspan></text>
+         x="19.377993"
+         y="112.27383"
+         style="stroke-width:0.03804557">1.rotazione fluidi (acqua o aria) </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.60153818px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.63681507"
@@ -482,15 +482,15 @@
          id="tspan4930-4-9-9" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.95222366px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.42929292"
-       x="55.267822"
-       y="110.88739"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.59650016px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.6331265"
+       x="57.547832"
+       y="109.78571"
        id="text95-6"><tspan
          sodipodi:role="line"
          id="tspan93-6"
-         x="55.267822"
-         y="110.88739"
-         style="stroke-width:1.42929292">tornado , acqua cesso, acqua bacinella</tspan></text>
+         x="57.547832"
+         y="109.78571"
+         style="stroke-width:2.6331265">tornado , </tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 273.05,49.927081 V 172.95833"
@@ -661,6 +661,42 @@
          x="23.922016"
          y="139.81883"
          style="stroke-width:0.04087258">antardite ... complotto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46644402px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.80577207"
+       x="87.847725"
+       y="76.178581"
+       id="text119"
+       transform="scale(0.67863751,1.4735407)"><tspan
+         sodipodi:role="line"
+         id="tspan117"
+         x="87.847725"
+         y="76.178581"
+         style="stroke-width:1.80577207">acqua cesso, </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.50765514px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83594418"
+       x="68.380081"
+       y="96.921936"
+       id="text123"
+       transform="scale(0.84452739,1.1840942)"><tspan
+         sodipodi:role="line"
+         id="tspan121"
+         x="68.380081"
+         y="96.921936"
+         style="stroke-width:1.83594418">acqua bacinella</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.06748962px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5136832"
+       x="86.971741"
+       y="98.433395"
+       id="text123-1"
+       transform="scale(0.86106009,1.1613591)"><tspan
+         sodipodi:role="line"
+         id="tspan121-2"
+         x="86.971741"
+         y="98.433395"
+         style="stroke-width:1.5136832">（+ precisione del negretto)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

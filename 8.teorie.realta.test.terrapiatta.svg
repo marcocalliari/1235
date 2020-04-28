@@ -153,6 +153,36 @@
          style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path960-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path963-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -161,9 +191,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="958.39278"
-     inkscape:cy="231.91029"
+     inkscape:zoom="31.999998"
+     inkscape:cx="926.12298"
+     inkscape:cy="132.15932"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -840,15 +870,15 @@
          style="stroke-width:0.56454706">polo sud</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.7674607px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none"
-       x="247.17302"
-       y="176.33604"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.34122315px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00889226;stroke-miterlimit:4;stroke-dasharray:none"
+       x="247.64874"
+       y="176.49542"
        id="text1314-9"><tspan
          sodipodi:role="line"
          id="tspan1312-4"
-         x="247.17302"
-         y="176.33604"
-         style="fill:#ffff00;stroke:#000000;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none">sole</tspan></text>
+         x="247.64874"
+         y="176.49542"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00889226;stroke-miterlimit:4;stroke-dasharray:none">sole1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.7674607px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5618856"
@@ -876,38 +906,38 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="243.46082"
-       y="180.48676"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.2031301px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14871882"
+       x="245.03709"
+       y="180.19963"
        id="text2994"><tspan
          sodipodi:role="line"
          id="tspan2992"
-         x="243.46082"
-         y="180.48676"
-         style="stroke-width:0.26458332">2619km</tspan></text>
+         x="245.03709"
+         y="180.19963"
+         style="stroke-width:0.14871882">7394km</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.15030243px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="332.6329"
-       y="134.16216"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.15030243px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none"
+       x="332.59958"
+       y="134.27908"
        id="text1314-9-34"
        transform="scale(0.7442879,1.3435661)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8"
-         x="332.6329"
-         y="134.16216"
-         style="fill:#ff0000;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none;">tropic. capricorno</tspan></text>
+         x="332.59958"
+         y="134.27908"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none">tropic. capricorno</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.15030243px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none"
-       x="325.83124"
-       y="134.14832"
+       x="325.87567"
+       y="134.29601"
        id="text1314-9-34-4"
        transform="scale(0.7442879,1.3435661)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8-0"
-         x="325.83124"
-         y="134.14832"
+         x="325.87567"
+         y="134.29601"
          style="fill:#ff0000;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none">tropic. cancro</tspan></text>
     <text
        xml:space="preserve"
@@ -949,17 +979,17 @@
          d="m 247.96933,179.83092 c 0,-0.0334 0,-2.95202 0,-2.95202"
          style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:0.02804576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotL-2)" />
       <path
-         d="m 247.95661,177.03181 a 0.81851292,0.18708867 0 0 1 -0.76986,-0.19734 0.81851292,0.18708867 0 0 1 0.86231,-0.17624 0.81851292,0.18708867 0 0 1 0.77222,0.19686 0.81851292,0.18708867 0 0 1 -0.86021,0.17677"
+         d="m 247.94192,177.06075 a 0.47814748,0.16712904 0 0 1 -0.44973,-0.17628 0.47814748,0.16712904 0 0 1 0.50374,-0.15744 0.47814748,0.16712904 0 0 1 0.4511,0.17586 0.47814748,0.16712904 0 0 1 -0.50251,0.15792"
          sodipodi:open="true"
          sodipodi:end="1.6232138"
          sodipodi:start="1.6286662"
-         sodipodi:ry="0.18708867"
-         sodipodi:rx="0.81851292"
-         sodipodi:cy="176.84503"
-         sodipodi:cx="248.00395"
+         sodipodi:ry="0.16712904"
+         sodipodi:rx="0.47814748"
+         sodipodi:cy="176.89391"
+         sodipodi:cx="247.96957"
          sodipodi:type="arc"
          id="path3207"
-         style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.02;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+         style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.01444776;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     </g>
     <text
        xml:space="preserve"
@@ -974,27 +1004,27 @@
          style="stroke-width:0.005;fill:#ff00ff;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none">dimensione e temperatura?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1912201px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
-       x="303.10831"
-       y="144.99561"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1912201px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="303.07791"
+       y="144.86746"
        id="text1314-9-34-49"
-       transform="scale(0.8157263,1.2259014)"><tspan
+       transform="scale(0.81572629,1.2259014)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8-9"
-         x="303.10831"
-         y="144.99561"
-         style="fill:#ff00ff;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">distanza 3000km fonte?</tspan></text>
+         x="303.07791"
+         y="144.86746"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">distanza 3000km fonte?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.15030243px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none"
-       x="329.32803"
-       y="134.09909"
+       x="329.40579"
+       y="134.27141"
        id="text1314-9-34-4-0"
        transform="scale(0.7442879,1.3435661)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8-0-0"
-         x="329.32803"
-         y="134.09909"
+         x="329.40579"
+         y="134.27141"
          style="fill:#ff0000;stroke:#000000;stroke-width:0.00391687;stroke-miterlimit:4;stroke-dasharray:none">equatore</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
@@ -1004,37 +1034,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19122012px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
-       x="299.30441"
-       y="143.71037"
+       x="299.3855"
+       y="144.0004"
        id="text1314-9-34-49-6"
        transform="scale(0.81572629,1.2259014)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8-9-0"
-         x="299.30441"
-         y="143.71037"
+         x="299.3855"
+         y="144.0004"
          style="fill:#ff00ff;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">forza delle stagioni ???</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19122012px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
-       x="303.18558"
-       y="145.26457"
+       x="303.16531"
+       y="145.35899"
        id="text1314-9-34-49-4"
        transform="scale(0.81572629,1.2259014)"><tspan
          sodipodi:role="line"
          id="tspan1312-4-8-9-00"
-         x="303.18558"
-         y="145.26457"
+         x="303.16531"
+         y="145.35899"
          style="fill:#ff00ff;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">sostanza atmosfera??</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.005;stroke-miterlimit:4;stroke-dasharray:none"
-       x="246.88936"
-       y="174.13425"
+       x="246.60872"
+       y="171.72548"
        id="text3221-3"><tspan
          sodipodi:role="line"
          id="tspan3219-9"
-         x="246.88936"
-         y="174.13425"
+         x="246.60872"
+         y="171.72548"
          style="fill:#00ff00;stroke:#000000;stroke-width:0.005;stroke-miterlimit:4;stroke-dasharray:none">fonte calore1 candela</tspan></text>
     <text
        xml:space="preserve"
@@ -1080,6 +1110,180 @@
          x="242.44281"
          y="169.01146"
          style="stroke-width:0.56188565">senza misure!!!!</tspan></text>
+    <path
+       style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:0.041;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:"
+       d="m 242.98785,179.83092 c 0,-0.0702 0,-6.20791 0,-6.20791"
+       id="path943-2-3-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.22914135px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00597142;stroke-miterlimit:4;stroke-dasharray:none"
+       x="242.4574"
+       y="173.29689"
+       id="text1314-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49"
+         x="242.4574"
+         y="173.29689"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00597142;stroke-miterlimit:4;stroke-dasharray:none">sole2 piatto/ologramma/freddo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19002014px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none"
+       x="298.81274"
+       y="141.35083"
+       id="text1314-9-5-3"
+       transform="scale(0.81334637,1.2294885)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49-7"
+         x="298.81274"
+         y="141.35083"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none">diametro=50km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19122012px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="299.40771"
+       y="142.7009"
+       id="text1314-9-34-49-6-4"
+       transform="scale(0.81572629,1.2259014)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-8-9-0-5"
+         x="299.40771"
+         y="142.7009"
+         style="fill:#ff00ff;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">forza x rallentare/accelerare ???</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-2)"
+       d="m 246.54154,175.08228 c -0.0392,0 -2.85974,0.0196 -2.85974,0.0196"
+       id="path3261-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.21433589px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.156923"
+       x="242.60757"
+       y="180.18384"
+       id="text2994-0"><tspan
+         sodipodi:role="line"
+         id="tspan2992-4"
+         x="242.60757"
+         y="180.18384"
+         style="stroke-width:0.156923">4775km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.27089345px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1983308"
+       x="247.4702"
+       y="180.20192"
+       id="text2994-3"><tspan
+         sodipodi:role="line"
+         id="tspan2992-7"
+         x="247.4702"
+         y="180.20192"
+         style="stroke-width:0.1983308">10013km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19002014px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="297.7576"
+       y="146.98901"
+       id="text1314-9-5-3-5"
+       transform="scale(0.81334636,1.2294885)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49-7-0"
+         x="297.7576"
+         y="146.98901"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none;">circonferenza 30000km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19002014px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none"
+       x="303.97415"
+       y="146.92332"
+       id="text1314-9-5-3-5-7"
+       transform="scale(0.81334636,1.2294885)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49-7-0-2"
+         x="303.97415"
+         y="146.92332"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none">circonferenza 62881km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19896106px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00518492;stroke-miterlimit:4;stroke-dasharray:none"
+       x="298.78342"
+       y="141.54224"
+       id="text1314-9-5-3-9"
+       transform="scale(0.81334636,1.2294885)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49-7-4"
+         x="298.78342"
+         y="141.54224"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00518492;stroke-miterlimit:4;stroke-dasharray:none">altezza=6371km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1912201px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="303.15421"
+       y="144.62857"
+       id="text1314-9-34-49-5"
+       transform="scale(0.81572629,1.2259014)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-8-9-08"
+         x="303.15421"
+         y="144.62857"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">diametro= ???</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19122012px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="299.37109"
+       y="142.43785"
+       id="text1314-9-34-49-6-4-6"
+       transform="scale(0.81572629,1.2259014)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-8-9-0-5-1"
+         x="299.37109"
+         y="142.43785"
+         style="fill:#ff00ff;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">forza x galleggiare ???</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1912201px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="297.85303"
+       y="142.19377"
+       id="text1314-9-34-49-60"
+       transform="scale(0.81572629,1.2259014)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-8-9-03"
+         x="297.85303"
+         y="142.19377"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">velocita =1250km/h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1912201px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none"
+       x="303.09335"
+       y="145.08047"
+       id="text1314-9-34-49-61"
+       transform="scale(0.81572629,1.2259014)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-8-9-6"
+         x="303.09335"
+         y="145.08047"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.00498318;stroke-miterlimit:4;stroke-dasharray:none">velocita 2620km/h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="255.04694"
+       y="180.62654"
+       id="text2994-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan2992-7-3"
+         x="255.04694"
+         y="180.62654"
+         style="stroke-width:0.26458332">20035</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19002014px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none"
+       x="313.01489"
+       y="147.21239"
+       id="text1314-9-5-3-5-7-5"
+       transform="scale(0.81334636,1.2294885)"><tspan
+         sodipodi:role="line"
+         id="tspan1312-4-49-7-0-2-0"
+         x="313.01489"
+         y="147.21239"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.00495192;stroke-miterlimit:4;stroke-dasharray:none">circonferenza 125895km</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -19,17 +19,32 @@
   <defs
      id="defs2">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1116"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1;fill:#00ff00;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1114" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker1732"
        style="overflow:visible;"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path1730"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1;fill:#00ff00;fill-opacity:1"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
     </marker>
     <marker
@@ -128,17 +143,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="310.58807"
-     inkscape:cy="332.39468"
+     inkscape:zoom="15.839192"
+     inkscape:cx="257.83047"
+     inkscape:cy="301.48089"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-x="951"
      inkscape:window-y="41"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -147,7 +162,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,7 +181,7 @@
            height="64.285713"
            x="320"
            y="546.55792" /></flowRegion><flowPara
-         id="flowPara1273"></flowPara></flowRoot>    <text
+         id="flowPara1273" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.11781681px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81839377"
        x="176.26149"
@@ -449,27 +464,27 @@
          style="stroke-width:0.57035178">fase2 early pulmonary effect </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.75873548px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55549747"
-       x="99.228516"
-       y="190.81557"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.72291821px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52927434"
+       x="99.318604"
+       y="190.63318"
        id="text1845"
        transform="scale(0.8422325,1.1873206)"><tspan
          sodipodi:role="line"
          id="tspan1843"
-         x="99.228516"
-         y="190.81557"
-         style="stroke-width:0.55549747">stage 2B (late pulmonary effects)</tspan></text>
+         x="99.318604"
+         y="190.63318"
+         style="stroke-width:0.52927434">stage 2B (late pulmonary effects)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.75873548px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55549747"
-       x="99.325897"
-       y="191.72261"
+       x="99.484566"
+       y="191.64523"
        id="text1845-8"
        transform="scale(0.8422325,1.1873206)"><tspan
          sodipodi:role="line"
          id="tspan1843-3"
-         x="99.325897"
-         y="191.72261"
+         x="99.484566"
+         y="191.64523"
          style="stroke-width:0.55549747">stage 3 (hyper-inflammation)</tspan></text>
     <text
        xml:space="preserve"
@@ -534,5 +549,137 @@
          x="55.385323"
          y="203.76981"
          style="stroke-width:0.26458332">effetti collatorali ()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.72291821px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.52927434"
+       x="66.014275"
+       y="181.28931"
+       id="text1845-1"
+       transform="scale(0.8422325,1.1873206)"><tspan
+         sodipodi:role="line"
+         id="tspan1843-6"
+         x="66.014275"
+         y="181.28931"
+         style="fill:#ff0000;stroke-width:0.52927434">PLASMA Iperimmune</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.41592732px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3045153"
+       x="55.381779"
+       y="216.2859"
+       id="text998"><tspan
+         sodipodi:role="line"
+         id="tspan996"
+         x="55.381779"
+         y="216.2859"
+         style="stroke-width:0.3045153">test policlinico sanmatteo Pavia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.41592738px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3045153"
+       x="56.64072"
+       y="216.67175"
+       id="text998-0"><tspan
+         sodipodi:role="line"
+         id="tspan996-1"
+         x="56.64072"
+         y="216.67175"
+         style="stroke-width:0.3045153">46 pazienti</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.75873548px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.55549747"
+       x="112.5145"
+       y="191.64476"
+       id="text1845-8-5"
+       transform="scale(0.8422325,1.1873206)"><tspan
+         sodipodi:role="line"
+         id="tspan1843-3-2"
+         x="112.5145"
+         y="191.64476"
+         style="fill:#ff00ff;stroke-width:0.55549747">ventilazione assistita</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.55374706px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.03496058;stroke-miterlimit:4;stroke-dasharray:none"
+       x="106.06498"
+       y="184.95854"
+       id="text1038"
+       transform="scale(0.80966075,1.2350852)"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="106.06498"
+         y="184.95854"
+         style="fill:#00ff00;stroke:#000000;stroke-width:0.03496058;stroke-miterlimit:4;stroke-dasharray:none">MORTALITA  13 e il 20%, circa 15% di media</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.68831712px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.0434566;stroke-miterlimit:4;stroke-dasharray:none"
+       x="69.47509"
+       y="176.16029"
+       id="text1038-4"
+       transform="scale(0.80966075,1.2350852)"><tspan
+         sodipodi:role="line"
+         id="tspan1036-7"
+         x="69.47509"
+         y="176.16029"
+         style="fill:#00ff00;stroke:#000000;stroke-width:0.0434566;stroke-miterlimit:4;stroke-dasharray:none">MORTALITA  6%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.69455"
+       y="218.40605"
+       id="text1060"><tspan
+         sodipodi:role="line"
+         id="tspan1058"
+         x="56.69455"
+         y="218.40605"
+         style="stroke-width:0.26458332">Fausto Baldanti, direttore virologia </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.229088"
+       y="218.89049"
+       id="text1064"><tspan
+         sodipodi:role="line"
+         id="tspan1062"
+         x="57.229088"
+         y="218.89049"
+         style="stroke-width:0.26458332">politici interesse </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.195683"
+       y="219.34151"
+       id="text1068"><tspan
+         sodipodi:role="line"
+         id="tspan1066"
+         x="57.195683"
+         y="219.34151"
+         style="stroke-width:0.26458332">presidente della Lombardia Attilio Fontana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.243618"
+       y="219.71918"
+       id="text1064-3"><tspan
+         sodipodi:role="line"
+         id="tspan1062-3"
+         x="57.243618"
+         y="219.71918"
+         style="stroke-width:0.26458332">Ministro pd Speranza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.72291821px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.52927434"
+       x="73.907661"
+       y="181.2543"
+       id="text1845-1-7"
+       transform="scale(0.8422325,1.1873206)"><tspan
+         sodipodi:role="line"
+         id="tspan1843-6-7"
+         x="73.907661"
+         y="181.2543"
+         style="fill:#ff0000;stroke-width:0.52927434">#2</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1116)"
+       d="m 61.137648,217.01079 c 0.431393,-0.0116 20.623275,11.10776 24.42671,11.43377"
+       id="path1106"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

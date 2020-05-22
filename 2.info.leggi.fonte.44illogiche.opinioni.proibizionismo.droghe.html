@@ -71,7 +71,8 @@
 					bassa #37.2
 				lecco 
 					statale36 #25
-			roma	
+			roma
+				acilia #1.4
 				aprilia 2009 #1.3
 				Velletri, Genzano  e Nemi #1.1
 				di via dell'Archeologia #1
@@ -136,7 +137,8 @@
 				bassa Fausto Sandano #43
 			sicilia
 				palermo #43.c2 
-				
+				catania 
+					quartiere nw San Giovanni Galermo #43.c3
 				agrigento raffadali #43.c
 			
 		taglio
@@ -469,6 +471,31 @@ step5 controlli di polizia x contrasto droga
 step6 giustizia sbagliata
 	vittima1
 	arrestato (e associato) alla carcere (casa circondariale di ravenna)
+
+<a id=43.c3>fatto430 Catania, pusher arrestato per 6grammi cocaina e 60g marijuana</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T5Cbohs9M_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+http://www.cataniatoday.it/cronaca/san-giovanni-galermo-arresto-droga-16-maggio-2020.html
+
+
+
+dati0
+	location catania san giovanni Galermo/via Abate Silvestri
+		vittima1 abitazione Sapienza
+	criminale legge309
+	
+step5 controlli polizia
+	allertati via vai da abitazione di vittima
+	vittima1 perquisizione domestica
+		trovato con
+			60g ganja
+			6g cocaina
+			materiale x pesatura, taglio e confezionamento
+			200euro cash
+			contabilita acquisti e vendite
+			
+			
+		
+
 
 <a id=43.c2>fatto430 Palermo, arrestati 7 pusher #legge309criminale</a>
 
@@ -2972,6 +2999,30 @@ http://www.ansa.it/sito/notizie/topnews/2019/11/02/perugiaoperazione-antidroga15
 	"un'inedita e insospettabile organizzazione" di trafficanti internazionali 
 	perugia 
 		procuratore,  Giuseppe Petrazzini, 2019-11-02-11 in sala stampa comando carabinieri-perugia
+
+
+<a id=1.4>fatto483.c Roma, arrestati due fratelli per coltivazione cannabis e spaccio cocaina</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0NE31AVJB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+romatoday.it/cronaca/acilia-piante-di-marijuana-in-casa.html
+
+
+dati0
+	location roma acilia
+		abitazione1 di 2 fratelli 
+			vittima1 42enne romano
+			vittima2 fratello 44enne
+
+step5 polizia
+	via vai sospetta 
+	30g cocaina 
+	47g hashish
+	13 piante di marijuana
+	28g marijuana
+	+ 20k cash
+step6 giustizia sbagliata
+	arresti domiciliari vittima1
+	denunciato in stato in liberta' vittima2
+
 
 
 <a id=1.3>fatto483.c Dopo 11anni di processo condannati per 2kg di cocaina ad Aprilia</a>

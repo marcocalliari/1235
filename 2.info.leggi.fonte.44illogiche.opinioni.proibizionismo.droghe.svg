@@ -20,13 +20,43 @@
   <defs
      id="defs2">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1336"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1334"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1296"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#ff00ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1294" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="Arrow1Lend"
        style="overflow:visible;"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path1040"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
@@ -40,12 +70,13 @@
        refX="0"
        id="Arrow1Lend-5"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          id="path1040-8"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
@@ -63,6 +94,22 @@
          style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1040-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,8 +119,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="510.17035"
-     inkscape:cy="166.31667"
+     inkscape:cx="488.98623"
+     inkscape:cy="351.75249"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -984,14 +1031,15 @@
     <a
        id="a1926"
        xlink:href="http://www.senato.it/leg/18/BGT/Schede/FascicoloSchedeDDL/ebook/51867.pdf"
-       transform="translate(-75.595239,-2.6458333)">
+       transform="translate(-75.595239,-2.6458333)"
+       style="fill:#0000ff">
       <text
          id="text311-6"
          y="203.98431"
          x="202.67514"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
+           style="stroke-width:0.26458332;fill:#0000ff"
            y="203.98431"
            x="202.67514"
            id="tspan309-3"
@@ -1087,7 +1135,7 @@
          style="fill:#ff0000;stroke-width:0.26458332">perche abbassare??</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="127.22013"
        y="202.03757"
        id="text311-6-3"><tspan
@@ -1095,10 +1143,10 @@
          id="tspan309-3-3"
          x="127.22013"
          y="202.03757"
-         style="stroke-width:0.26458332">ciampolillo</tspan></text>
+         style="stroke-width:0.26458332;fill:#0000ff;">ciampolillo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="127.26981"
        y="201.68864"
        id="text311-6-3-2"><tspan
@@ -1106,7 +1154,7 @@
          id="tspan309-3-3-5"
          x="127.26981"
          y="201.68864"
-         style="stroke-width:0.26458332">2019-06-03</tspan></text>
+         style="stroke-width:0.26458332;fill:#0000ff;">2019-06-03</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5729"
@@ -1117,7 +1165,7 @@
            height="150.51273"
            x="485.88336"
            y="615.40887" /></flowRegion><flowPara
-         id="flowPara5735"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5735" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5737"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.36586666px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1139,11 +1187,15 @@
          id="flowPara5827">6) le sostanze ottenute per sintesi o semisintesi che siano riconducibili per struttura chimica o per effetto farmaco-tossicologico al tetraidrocannabinolo;</flowPara><flowPara
          id="flowPara5929"
          style="fill:#0000ff">6) la cannabis, compresi i prodotti da essa ottenuti, con una percentuale di tetraidrocannabinolo superiore allo 0,5 per cento, i loro analoghi e le sostanze ottenute per sintesi o per semisintesi che siano ad essi riconducibili per struttura chimica o per effetto farmacologico.</flowPara><flowPara
+         style="fill:#ff00ff"
+         id="flowPara347">6) abrogato</flowPara><flowPara
          id="flowPara5825">7) ogni altra pianta o sostanza naturale o sintetica che possa provocare allucinazioni o gravi distorsioni sensoriali e tutte le sostanze ottenute per estrazione o per sintesi chimica che provocano la stessa tipologia di effetti a carico del sistema nervoso centrale;</flowPara><flowPara
          id="flowPara5831">8) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformità alle modalità indicate nella tabella dei medicinali di cui alla lettera e);</flowPara><flowPara
          id="flowPara5835" /><flowPara
          id="flowPara5837">b) nella tabella II devono essere indicati:</flowPara><flowPara
          id="flowPara5839">1) la cannabis e i prodotti da essa ottenuti;</flowPara><flowPara
+         style="fill:#ff00ff"
+         id="flowPara437">1)  la cannabis, compresi i prodotti da essa ottenuti, con una percentuale di tetraidrocannabinolo superiore allo 0,5 per cento, i prodotti ad essi analoghi e le sostanze ottenute per sintesi o per semisintesi che siano ad essi riconducibili per struttura chimica o per effetto farmacologico</flowPara><flowPara
          id="flowPara5841">2) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformità alle modalità indicate nella tabella dei medicinali di cui alla lettera e);</flowPara><flowPara
          id="flowPara5843" /><flowPara
          id="flowPara5845">c) nella tabella III devono essere indicati:</flowPara><flowPara
@@ -1209,64 +1261,356 @@
          id="flowPara5815" /><flowPara
          id="flowPara5817" /></flowRoot>    <path
        style="fill:none;stroke:#0000ff;stroke-width:0.02223784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-5-5)"
-       d="m 128.58902,202.10235 c -11.67275,55.72719 -3.81003,54.39944 -0.91794,53.68918"
+       d="m 128.58902,202.10235 c -11.67275,55.72719 -2.77436,53.39718 0.18455,53.65577"
        id="path230-6-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="123.81083"
-       y="255.04463"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19275708px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14112437"
+       x="123.06117"
+       y="255.41029"
        id="text6552"><tspan
          sodipodi:role="line"
          id="tspan6550"
-         x="123.81083"
-         y="255.04463"
-         style="stroke-width:0.26458332">cannabis light sforata</tspan></text>
+         x="123.06117"
+         y="255.41029"
+         style="stroke-width:0.14112437;fill:#ff0000">cannabis light sforata, si applica 309</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="123.97619"
-       y="255.39899"
-       id="text6556"><tspan
-         sodipodi:role="line"
-         id="tspan6554"
-         x="123.97619"
-         y="255.39899"
-         style="stroke-width:0.26458332">si applica 309</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="123.3856"
-       y="254.00522"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19275708px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14112437"
+       x="124.4714"
+       y="253.50284"
        id="text6560"><tspan
          sodipodi:role="line"
          id="tspan6558"
-         x="123.3856"
-         y="254.00522"
-         style="stroke-width:0.26458332;fill:#ff0000">proposta proibizionista</tspan></text>
+         x="124.4714"
+         y="253.50284"
+         style="fill:#ff0000;stroke-width:0.14112437">proposta proibizionista</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="123.33836"
-       y="254.61942"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19275708px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14112437"
+       x="124.4462"
+       y="253.83043"
        id="text6564"><tspan
          sodipodi:role="line"
          id="tspan6562"
-         x="123.33836"
-         y="254.61942"
-         style="stroke-width:0.26458332">essendo legge piu nuova</tspan></text>
+         x="124.4462"
+         y="253.83043"
+         style="stroke-width:0.14112437">essendo legge piu nuova</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="123.72909"
-       y="252.4662"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19275708px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14112437"
+       x="124.6546"
+       y="252.68195"
        id="text6568"><tspan
          sodipodi:role="line"
          id="tspan6566"
-         x="123.72909"
-         y="252.4662"
-         style="stroke-width:0.26458332">regalo ? alla mafia?</tspan></text>
+         x="124.6546"
+         y="252.68195"
+         style="stroke-width:0.14112437">regalo ? alla mafia?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.41924715px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.4481"
+       y="257.26526"
+       id="text313"><tspan
+         sodipodi:role="line"
+         id="tspan311"
+         x="115.4481"
+         y="297.92566"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.29844147px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21849971"
+       x="121.17883"
+       y="252.79588"
+       id="text6568-5"
+       transform="scale(0.96382991,1.0375275)"><tspan
+         sodipodi:role="line"
+         id="tspan6566-9"
+         x="121.17883"
+         y="252.79588"
+         style="stroke-width:0.21849971">operazioni di immissione sul mercato, importazione o esportazione</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.2984415px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21849972"
+       x="121.22528"
+       y="253.42221"
+       id="text6568-5-6"
+       transform="scale(0.96382988,1.0375275)"><tspan
+         sodipodi:role="line"
+         id="tspan6566-9-4"
+         x="121.22528"
+         y="253.42221"
+         style="stroke-width:0.21849972">reclusione da quattro a sedici anni e con la multa da 15.000 euro a 150.000 euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.94437"
+       y="261.77734"
+       id="text361"><tspan
+         sodipodi:role="line"
+         id="tspan359"
+         x="118.94437"
+         y="261.77734"
+         style="stroke-width:0.26458332">categoria1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.43248"
+       y="263.86804"
+       id="text365"><tspan
+         sodipodi:role="line"
+         id="tspan363"
+         x="117.43248"
+         y="263.86804"
+         style="stroke-width:0.26458332">categoria2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.21986"
+       y="264.69485"
+       id="text369"><tspan
+         sodipodi:role="line"
+         id="tspan367"
+         x="117.21986"
+         y="264.69485"
+         style="stroke-width:0.26458332"> da tre a otto anni e con la multa da 6.000 euro a 60.000 euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="116.25129"
+       y="264.23419"
+       id="text373"><tspan
+         sodipodi:role="line"
+         id="tspan371"
+         x="116.25129"
+         y="264.23419"
+         style="stroke-width:0.26458332">operazioni di immissione sul mercato, importazione o esportazione</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.00819"
+       y="265.3194"
+       id="text365-7"><tspan
+         sodipodi:role="line"
+         id="tspan363-0"
+         x="117.00819"
+         y="265.3194"
+         style="stroke-width:0.26458332">categoria3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.00726"
+       y="266.17133"
+       id="text396"><tspan
+         sodipodi:role="line"
+         id="tspan394"
+         x="117.00726"
+         y="266.17133"
+         style="stroke-width:0.26458332">fino a quattro anni qualora </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="116.98053"
+       y="266.78183"
+       id="text400"><tspan
+         sodipodi:role="line"
+         id="tspan398"
+         x="116.98053"
+         y="266.78183"
+         style="stroke-width:0.26458332">la multa fino a 2.000 euro, </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.23109"
+       y="265.64594"
+       id="text404"><tspan
+         sodipodi:role="line"
+         id="tspan402"
+         x="117.23109"
+         y="265.64594"
+         style="stroke-width:0.26458332">esportazione di sostanze classificate nella categoria 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="106.22204"
+       y="269.47372"
+       id="text400-5"><tspan
+         sodipodi:role="line"
+         id="tspan398-6"
+         x="106.22204"
+         y="272.79874"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot424"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.36586666px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion426"><rect
+           id="rect428"
+           width="37.754452"
+           height="20.960665"
+           x="396.48486"
+           y="682.58398" /></flowRegion><flowPara
+         id="flowPara430">coltiva, produce, fabbrica, estrae, raffina, vende, offre o mette in vendita, cede, distribuisce, commercia, trasporta, procura ad altri, invia, passa o spedisce in transito, consegna per qualunque scopo sostanze stupefacenti o psicotrope di cui alla tabella I</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot440"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.36586666px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion442"><rect
+           id="rect444"
+           width="8.3337584"
+           height="6.4397225"
+           x="400.3992"
+           y="697.61005" /></flowRegion><flowPara
+         id="flowPara446">coltiva, produce, fabbrica, estrae, raffina, vende, offre o mette in vendita, cede, distribuisce, commercia, trasporta, procura ad altri, invia, passa o spedisce in transito, consegna per qualunque scopo sostanze stupefacenti o psicotrope di cui alla tabella I</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot399"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Arial;font-style:normal;font-weight:bold;font-size:1.36586666px;line-height:17.85000038;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion401"><rect
+           id="rect403"
+           width="0.58035713"
+           height="3.75"
+           x="489.95535"
+           y="641.02222" /></flowRegion><flowPara
+         id="flowPara405"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="129.33873"
+       y="256.43842"
+       id="text409"><tspan
+         sodipodi:role="line"
+         id="tspan407"
+         x="129.33873"
+         y="259.76343"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot411"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Arial;font-style:normal;font-weight:bold;font-size:1.36586666px;line-height:17.85000038;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion413"><rect
+           id="rect415"
+           width="9.9553576"
+           height="10.803572"
+           x="491.78571"
+           y="641.9151" /></flowRegion><flowPara
+         id="flowPara417"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.99184"
+       y="252.09872"
+       id="text443"><tspan
+         sodipodi:role="line"
+         id="tspan441"
+         x="121.99184"
+         y="252.09872"
+         style="stroke-width:0.26458332">cannabis (anche la light?)</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1336)"
+       d="m 124.9318,254.38721 3.80859,4.52688"
+       id="path445"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.33458298px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2449602"
+       x="145.51796"
+       y="188.18785"
+       id="text207-8"
+       transform="scale(0.92583386,1.0801074)"><tspan
+         sodipodi:role="line"
+         id="tspan1505"
+         x="145.51796"
+         y="188.18785"
+         style="fill:#ff00ff">g-bis) prodotti e preparati, destinati a qualsiasi uso, contenenti cannabidiolo, il cui contenuto di </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1507"
+         x="145.51796"
+         y="188.52243"
+         style="fill:#ff00ff">tetraidrocannabinolo non è superiore allo 0,5 per cento, derivanti da infiorescenze</tspan><tspan
+         sodipodi:role="line"
+         x="145.51796"
+         y="188.85701"
+         id="tspan1509"
+         style="fill:#ff00ff"> fresche ed essiccate e oli ».</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.27658236px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.20249586"
+       x="127.15051"
+       y="203.02936"
+       id="text6552-1"><tspan
+         sodipodi:role="line"
+         id="tspan6550-3"
+         x="127.15051"
+         y="203.02936"
+         style="fill:#ff00ff;stroke-width:0.20249586">aiello m5s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.28519303px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.20880002"
+       x="127.14745"
+       y="203.35442"
+       id="text370"><tspan
+         sodipodi:role="line"
+         id="tspan368"
+         x="127.14745"
+         y="203.35442"
+         style="fill:#ff00ff;stroke-width:0.20880002">pd magi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.27658236px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.20249586"
+       x="127.21966"
+       y="202.76747"
+       id="text6552-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan6550-3-4"
+         x="127.21966"
+         y="202.76747"
+         style="fill:#ff00ff;stroke-width:0.20249586">proposta 2309</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.19041619px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.13941051"
+       x="127.14187"
+       y="203.6936"
+       id="text392"><tspan
+         sodipodi:role="line"
+         id="tspan390"
+         x="127.14187"
+         y="203.6936"
+         style="fill:#ff00ff;stroke-width:0.13941051">pd bruno bossio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.22096297px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.1617749"
+       x="127.16391"
+       y="204.00314"
+       id="text397"><tspan
+         sodipodi:role="line"
+         id="tspan395"
+         x="127.16391"
+         y="204.00314"
+         style="fill:#ff00ff;stroke-width:0.1617749">IV giachetti</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="129.56343"
+       y="204.43048"
+       id="text311-6-3-4"><tspan
+         sodipodi:role="line"
+         x="129.56343"
+         y="204.43048"
+         style="fill:#00ff00;stroke-width:0.26458332"
+         id="tspan1571">gallinella dietro lobby</tspan><tspan
+         sodipodi:role="line"
+         x="129.56343"
+         y="204.79187"
+         style="fill:#00ff00;stroke-width:0.26458332"
+         id="tspan1575">estrazioni cbd suo fratello</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.02223784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
+       d="m 128.78846,203.23318 5.71509,0.32589"
+       id="path230-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

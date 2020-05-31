@@ -118,9 +118,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="638.71567"
-     inkscape:cy="160.34352"
+     inkscape:zoom="5.6"
+     inkscape:cx="783.65126"
+     inkscape:cy="307.7155"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1683,5 +1683,21 @@
          x="177.60156"
          y="249.75296"
          style="stroke-width:0.26458332"> sentenza n. 36/2014 della Corte Costituzionale</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.70133,195.17031 -0.13364,31.67144"
+       id="path401"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.33587313px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.44231224"
+       x="199.49669"
+       y="197.64259"
+       id="text405"><tspan
+         sodipodi:role="line"
+         x="199.49669"
+         y="197.64259"
+         style="stroke-width:2.44231224"
+         id="tspan408">giudiziario</tspan></text>
   </g>
 </svg>

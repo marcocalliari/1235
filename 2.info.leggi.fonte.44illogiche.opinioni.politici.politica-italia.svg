@@ -429,9 +429,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="168.35683"
-     inkscape:cy="482.02259"
+     inkscape:zoom="15.839192"
+     inkscape:cx="183.88204"
+     inkscape:cy="605.67977"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3168,20 +3168,6 @@
          style="font-size:0.06360533px;line-height:1.25;stroke-width:0.00848071px"> </tspan></text>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot8022-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.02283498,0,0,0.02717439,21.816363,115.4021)"><flowRegion
-         id="flowRegion8024-5"><rect
-           id="rect8026-8"
-           width="215.31543"
-           height="168.09012"
-           x="822.04071"
-           y="559.99579" /></flowRegion><flowPara
-         id="flowPara8028-6"
-         style="font-size:7.5px;line-height:1.25">destra(sovranisti)</flowPara><flowPara
-         id="flowPara8030-2"
-         style="font-size:7.5px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot8194-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.03368086,0,0,0.04007081,14.497233,175.92582)"><flowRegion
@@ -3201,28 +3187,6 @@
        height="12.111412"
        x="32.023998"
        y="183.48936" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:1.92997241px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04824931"
-       x="33.970127"
-       y="120.86987"
-       id="text460"><tspan
-         sodipodi:role="line"
-         id="tspan458"
-         x="33.970127"
-         y="120.86987"
-         style="stroke-width:0.04824931">TEMI</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:1.92997265px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04824931"
-       x="32.78336"
-       y="122.99859"
-       id="text460-3"><tspan
-         sodipodi:role="line"
-         id="tspan458-6"
-         x="32.78336"
-         y="122.99859"
-         style="stroke-width:0.04824931">BARATTOLI-opinioni</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.01712605;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5845-7-2-8"
@@ -3295,13 +3259,6 @@
        d="m 37.394816,200.0597 v 6.86258"
        id="path4138-9-1"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.01712605;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5845-7-2-8-7"
-       width="18.505619"
-       height="12.111412"
-       x="30.938704"
-       y="123.37466" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot8194-5"
@@ -3314,84 +3271,7 @@
            x="580.3111"
            y="623.22968" /></flowRegion><flowPara
          id="flowPara8202-4"
-         style="font-size:7.5px;line-height:1.25">libro falsari</flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 33.087389,126.98455 v 6.91747"
-       id="path4136-2-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.402408,127.14925 v 6.86257"
-       id="path4138-5-5"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 44.144327,127.0669 v 6.97237"
-       id="path4140-3-2"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.32609269px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="32.386932"
-       y="126.18853"
-       id="text4144-2-3"><tspan
-         sodipodi:role="line"
-         id="tspan4146-6-6"
-         x="32.386932"
-         y="126.18853"
-         style="font-size:0.40761581px;line-height:1.25;stroke-width:0.02717439px">Centro-sinistra</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.32609269px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="40.97887"
-       y="126.46301"
-       id="text4148-5-3"><tspan
-         sodipodi:role="line"
-         x="40.97887"
-         y="126.46301"
-         style="font-size:0.40761581px;line-height:1.25;stroke-width:0.02717439px"
-         id="tspan461-1-0">centro-destra</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.32609269px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="46.035606"
-       y="124.51689"
-       id="text4152-7-1"
-       transform="scale(0.98546188,1.0147526)"><tspan
-         sodipodi:role="line"
-         x="46.035606"
-         y="124.51689"
-         id="tspan4156-9-8"
-         style="font-size:0.45316732px;line-height:1.25;stroke-width:0.02717439px">tecnici</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.32609269px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="38.140179"
-       y="126.39538"
-       id="text4148-9-1-4"><tspan
-         sodipodi:role="line"
-         id="tspan4150-2-0-2"
-         x="38.140179"
-         y="126.39538"
-         style="font-size:0.40761581px;line-height:1.25;stroke-width:0.02717439px">centro</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02717439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 36.586814,126.9022 v 6.86258"
-       id="path4138-9-1-2"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.39278364px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08481549"
-       x="31.305006"
-       y="125.18003"
-       id="text1246"
-       transform="scale(1.0040832,0.9959334)"><tspan
-         sodipodi:role="line"
-         id="tspan1244"
-         x="31.305006"
-         y="125.18003"
-         style="stroke-width:0.08481549">lvl 1 idee</tspan></text>
-    <text
+         style="font-size:7.5px;line-height:1.25">libro falsari</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05430532px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06420339"
        x="31.142075"
@@ -3510,17 +3390,6 @@
          x="38.332417"
          y="202.65952"
          style="stroke-width:0.05597975">paragone-gabbia</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.36123431px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11752807"
-       x="38.322533"
-       y="130.29474"
-       id="text1972"><tspan
-         sodipodi:role="line"
-         id="tspan1970"
-         x="38.322533"
-         y="130.29474"
-         style="stroke-width:0.11752807">m5s</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.19110903px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01592575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7309,5 +7178,192 @@
          x="42.261135"
          y="170.06332"
          style="stroke-width:0.05070633">+ medico interdizione perpetua</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.67159694px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4917002"
+       x="24.581526"
+       y="143.4552"
+       id="text1338"><tspan
+         sodipodi:role="line"
+         id="tspan1336"
+         x="24.581526"
+         y="143.4552"
+         style="stroke-width:0.4917002">spagna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.67159694px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4917002"
+       x="34.106579"
+       y="143.39401"
+       id="text1338-9"><tspan
+         sodipodi:role="line"
+         id="tspan1336-3"
+         x="34.106579"
+         y="143.39401"
+         style="stroke-width:0.4917002">sicilia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.58768576px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43026581"
+       x="24.613033"
+       y="144.35132"
+       id="text1370"><tspan
+         sodipodi:role="line"
+         id="tspan1368"
+         x="24.613033"
+         y="144.35132"
+         style="stroke-width:0.43026581">86.98mil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.58768576px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43026581"
+       x="33.760384"
+       y="144.39612"
+       id="text1370-9"><tspan
+         sodipodi:role="line"
+         x="33.760384"
+         y="144.39612"
+         style="stroke-width:0.43026581"
+         id="tspan1390">200.65mil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.348656"
+       y="125.98091"
+       id="text1396"><tspan
+         sodipodi:role="line"
+         id="tspan1394"
+         x="36.348656"
+         y="125.98091"
+         style="stroke-width:0.26458332">italia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.424679"
+       y="129.24768"
+       id="text1400"><tspan
+         sodipodi:role="line"
+         id="tspan1398"
+         x="35.424679"
+         y="129.24768"
+         style="stroke-width:0.26458332">630 parlamentari</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.885464"
+       y="130.71841"
+       id="text1396-2"><tspan
+         sodipodi:role="line"
+         id="tspan1394-6"
+         x="35.885464"
+         y="130.71841"
+         style="stroke-width:0.26458332">italia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.150475"
+       y="131.3866"
+       id="text1400-1"><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="131.3866"
+         style="stroke-width:0.26458332"
+         id="tspan1438">10.435 euro lord</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="131.74799"
+         style="stroke-width:0.26458332"
+         id="tspan1443">5000netti</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="132.10938"
+         style="stroke-width:0.26458332"
+         id="tspan1445">+ 3503 spese soggiorno</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="132.47075"
+         style="stroke-width:0.26458332"
+         id="tspan1447">+1100 spese trasporto</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="132.83214"
+         style="stroke-width:0.26458332"
+         id="tspan1453">viaggiano gratis in autostrada, treno (prima classe), nave e aereo </tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="133.22374"
+         style="stroke-width:0.26458332"
+         id="tspan1455">+ 3.690 euro rapporto eletto-elettore（x stipendio collaboratori）</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="133.58513"
+         style="stroke-width:0.26458332"
+         id="tspan1457">+258euro x le telefonate</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="133.94652"
+         style="stroke-width:0.26458332"
+         id="tspan1461">+2500 a legislatura x spese informatiche</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="134.30791"
+         style="stroke-width:0.26458332"
+         id="tspan1451">-206euro x assenza voto elettronico</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="134.66928"
+         style="stroke-width:0.26458332"
+         id="tspan1463" /><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="135.03067"
+         style="stroke-width:0.26458332"
+         id="tspan1465">buonuscita 46keuro x ogni legislatura</tspan><tspan
+         sodipodi:role="line"
+         x="35.150475"
+         y="135.39206"
+         style="stroke-width:0.26458332"
+         id="tspan1449">vitalizio 1mandato (da 65anni, 2.486 euro). da 60anni(x2 4.973 euro , x3 7.460 euro)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.665054"
+       y="129.13106"
+       id="text1400-9"><tspan
+         sodipodi:role="line"
+         id="tspan1398-7"
+         x="40.665054"
+         y="129.13106"
+         style="stroke-width:0.26458332">+315senatori</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.312984"
+       y="136.90555"
+       id="text1542"><tspan
+         sodipodi:role="line"
+         id="tspan1540"
+         x="35.312984"
+         y="136.90555"
+         style="stroke-width:0.26458332">bilancio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.413212"
+       y="137.4735"
+       id="text1546"><tspan
+         sodipodi:role="line"
+         x="35.413212"
+         y="137.4735"
+         style="stroke-width:0.26458332"
+         id="tspan1548">538,4 milioni spese correnti</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.36138555px;line-height:17.85000038;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.346394"
+       y="138.00804"
+       id="text1554"><tspan
+         sodipodi:role="line"
+         id="tspan1552"
+         x="35.346394"
+         y="138.00804"
+         style="stroke-width:0.26458332">413,16 milioni (270 milioni a ex dipendenti, 140milioni exdeputati)</tspan></text>
   </g>
 </svg>

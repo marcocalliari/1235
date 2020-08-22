@@ -8,34 +8,34 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="4.bibbia.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 297 210"
+   width="297mm"
    height="210mm"
-   width="297mm">
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="4.bibbia.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="41"
-     inkscape:window-x="-9"
-     inkscape:window-height="1001"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="162.51246"
-     inkscape:cx="606.79256"
-     inkscape:zoom="7.9195959"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="556.75061"
+     inkscape:cy="87.15316"
+     inkscape:document-units="mm"
+     inkscape:current-layer="a129-3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,317 +44,474 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       id="text12"
-       y="7.7267356"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="20.124044"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="7.7267356"
-         x="20.124044"
+       y="7.7267356"
+       id="text12"><tspan
+         sodipodi:role="line"
          id="tspan10"
-         sodipodi:role="line">heloim</tspan></text>
+         x="20.124044"
+         y="7.7267356"
+         style="stroke-width:0.0656717">heloim</tspan></text>
     <text
-       id="text16"
-       y="9.2883568"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="2.0098889"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="9.2883568"
-         x="2.0098889"
+       y="9.2883568"
+       id="text16"><tspan
+         sodipodi:role="line"
          id="tspan14"
-         sodipodi:role="line">1</tspan></text>
+         x="2.0098889"
+         y="9.2883568"
+         style="stroke-width:0.0656717">1</tspan></text>
     <text
-       id="text20"
-       y="7.4589248"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="6.2316518"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="7.4589248"
-         x="6.2316518"
+       y="7.4589248"
+       id="text20"><tspan
+         sodipodi:role="line"
          id="tspan18"
-         sodipodi:role="line">ebraico</tspan></text>
+         x="6.2316518"
+         y="7.4589248"
+         style="stroke-width:0.0656717">ebraico</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       x="3.1179919"
+       id="text16-3"
        y="41.140236"
-       id="text16-3"><tspan
-         sodipodi:role="line"
-         id="tspan14-3"
-         x="3.1179919"
+       x="3.1179919"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0656717"
          y="41.140236"
-         style="stroke-width:0.0656717">2</tspan></text>
+         x="3.1179919"
+         id="tspan14-3"
+         sodipodi:role="line">2</tspan></text>
     <text
-       id="text42"
-       y="41.08569"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="5.7409668"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="41.08569"
-         x="5.7409668"
+       y="41.08569"
+       id="text42"><tspan
+         sodipodi:role="line"
          id="tspan40"
-         sodipodi:role="line">nuovo testamento</tspan></text>
+         x="5.7409668"
+         y="41.08569"
+         style="stroke-width:0.0656717">nuovo testamento</tspan></text>
     <text
-       id="text46"
-       y="44.51001"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="8.7900181"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="44.51001"
-         x="8.7900181"
+       y="44.51001"
+       id="text46"><tspan
+         sodipodi:role="line"
          id="tspan44"
-         sodipodi:role="line">greco</tspan></text>
+         x="8.7900181"
+         y="44.51001"
+         style="stroke-width:0.0656717">greco</tspan></text>
     <text
-       id="text50"
-       y="45.011383"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
        x="83.500832"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0656717"
-         y="45.011383"
-         x="83.500832"
+       y="45.011383"
+       id="text50"><tspan
+         sodipodi:role="line"
          id="tspan48"
-         sodipodi:role="line">scrittori innamorati</tspan></text>
+         x="83.500832"
+         y="45.011383"
+         style="stroke-width:0.0656717">scrittori innamorati</tspan></text>
     <text
-       id="text54"
-       y="49.155624"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
        x="5.3110795"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.037639"
-         y="49.155624"
-         x="5.3110795"
+       y="49.155624"
+       id="text54"><tspan
+         sodipodi:role="line"
          id="tspan52"
-         sodipodi:role="line">Gesu cura malati 94%tempo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.1393px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
-       x="19.475317"
-       y="9.663558"
-       id="text12-0"><tspan
-         sodipodi:role="line"
-         id="tspan10-0"
-         x="19.475317"
-         y="9.663558"
-         style="stroke-width:0.0270857">categoria prova: mio, tuo, vostro </tspan></text>
-    <text
-       id="text12-0-6"
-       y="11.794476"
-       x="19.393461"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.13931px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0270857"
-         y="11.794476"
-         x="19.393461"
-         id="tspan10-0-9"
-         sodipodi:role="line">plurale tradotto dei, in alcuni casi</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
-       x="42.3344"
-       y="7.9689546"
-       id="text12-6"><tspan
-         sodipodi:role="line"
-         id="tspan10-6"
-         x="42.3344"
-         y="7.9689546"
-         style="stroke-width:0.0656717">yahweh</tspan></text>
-    <text
-       id="text12-0-0"
-       y="9.6897526"
-       x="39.463493"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.13931px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0270857"
-         y="9.6897526"
-         x="39.463493"
-         id="tspan10-0-3"
-         sodipodi:role="line">Nome proprio: mai mio tuo suo</tspan></text>
-    <text
-       id="text130"
-       y="8.3495045"
-       x="82.199326"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.42652px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105236"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.105236"
-         y="8.3495045"
-         x="82.199326"
-         id="tspan128"
-         sodipodi:role="line">profeti</tspan></text>
-    <path
-       id="path132"
-       d="m 0.81523963,36.492582 c 1.12752997,0 119.81885037,-0.601349 119.81885037,-0.601349"
-       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path134"
-       d="m 1.6603339,56.984104 c 1.4882636,0.106304 117.6791361,0 117.6791361,0"
-       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path136"
-       d="m 1.0225066,73.56761 c 0.8504364,0 117.3602234,0 117.3602234,0"
-       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
-       x="12.350577"
-       y="18.177879"
-       id="text54-8"><tspan
-         sodipodi:role="line"
-         id="tspan52-6"
-         x="12.350577"
-         y="18.177879"
+         x="5.3110795"
+         y="49.155624"
          style="stroke-width:0.037639">Gesu cura malati 94%tempo</tspan></text>
     <text
+       id="text12-0"
+       y="9.663558"
+       x="19.475317"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.1393px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0270857"
+         y="9.663558"
+         x="19.475317"
+         id="tspan10-0"
+         sodipodi:role="line">categoria prova: mio, tuo, vostro </tspan></text>
+    <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.13931px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
+       x="19.393461"
+       y="11.794476"
+       id="text12-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan10-0-9"
+         x="19.393461"
+         y="11.794476"
+         style="stroke-width:0.0270857">plurale tradotto dei, in alcuni casi</tspan></text>
+    <text
+       id="text12-6"
+       y="7.9689546"
+       x="42.3344"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76234px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0656717"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0656717"
+         y="7.9689546"
+         x="42.3344"
+         id="tspan10-6"
+         sodipodi:role="line">yahweh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.13931px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0270857"
+       x="39.463493"
+       y="9.6897526"
+       id="text12-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan10-0-3"
+         x="39.463493"
+         y="9.6897526"
+         style="stroke-width:0.0270857">Nome proprio: mai mio tuo suo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.42652px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105236"
+       x="82.199326"
+       y="8.3495045"
+       id="text130"><tspan
+         sodipodi:role="line"
+         id="tspan128"
+         x="82.199326"
+         y="8.3495045"
+         style="stroke-width:0.105236">profeti</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.81523963,36.492582 c 1.12752997,0 119.81885037,-0.601349 119.81885037,-0.601349"
+       id="path132" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.6603339,56.984104 c 1.4882636,0.106304 117.6791361,0 117.6791361,0"
+       id="path134" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.105236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.0225066,73.56761 c 0.8504364,0 117.3602234,0 117.3602234,0"
+       id="path136" />
+    <text
+       id="text54-8"
+       y="18.177879"
+       x="12.350577"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
-       x="41.424873"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.037639"
+         y="18.177879"
+         x="12.350577"
+         id="tspan52-6"
+         sodipodi:role="line">Gesu cura malati 94%tempo</tspan></text>
+    <text
+       id="text54-7"
        y="21.951689"
-       id="text54-7"><tspan
-         sodipodi:role="line"
-         id="tspan52-9"
-         x="41.424873"
+       x="41.424873"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.037639"
          y="21.951689"
-         style="stroke-width:0.037639">parla a israele 631 comandamenti</tspan></text>
-    <text
-       id="text54-7-2"
-       y="24.336197"
-       x="42.44714"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.037639"
-         y="24.336197"
-         x="42.44714"
-         id="tspan52-9-6"
-         sodipodi:role="line">no vestiti di 2 tessuti</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.98047px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946314"
-       x="106.58366"
-       y="43.368473"
-       id="text54-7-2-5"><tspan
-         sodipodi:role="line"
-         id="tspan52-9-6-1"
-         x="106.58366"
-         y="43.368473"
-         style="stroke-width:0.0946314" /></text>
-    <text
-       id="text212"
-       y="43.494961"
-       x="41.757404"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318798"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0318798"
-         y="43.494961"
-         x="41.757404"
-         id="tspan210"
-         sodipodi:role="line">gesu morte</tspan></text>
-    <text
-       inkscape:transform-center-y="3.1891366"
-       inkscape:transform-center-x="0.79731247"
-       id="text54-7-8"
-       y="19.127274"
-       x="41.171486"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.037639"
-         y="19.127274"
-         x="41.171486"
-         id="tspan52-9-8"
+         x="41.424873"
+         id="tspan52-9"
          sodipodi:role="line">parla a israele 631 comandamenti</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318798"
-       x="41.097675"
-       y="45.407341"
-       id="text212-1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
+       x="42.44714"
+       y="24.336197"
+       id="text54-7-2"><tspan
          sodipodi:role="line"
-         id="tspan210-8"
-         x="41.097675"
-         y="45.407341"
-         style="stroke-width:0.0318798">progetto sapeva Yahweh e Gesu</tspan></text>
+         id="tspan52-9-6"
+         x="42.44714"
+         y="24.336197"
+         style="stroke-width:0.037639">no vestiti di 2 tessuti</tspan></text>
     <text
-       id="text212-1-6"
-       y="47.444801"
-       x="41.02808"
+       id="text54-7-2-5"
+       y="43.368473"
+       x="106.58366"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.98047px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946314"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0946314"
+         y="43.368473"
+         x="106.58366"
+         id="tspan52-9-6-1"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318798"
+       x="41.757404"
+       y="43.494961"
+       id="text212"><tspan
+         sodipodi:role="line"
+         id="tspan210"
+         x="41.757404"
+         y="43.494961"
+         style="stroke-width:0.0318798">gesu morte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5832px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037639"
+       x="41.171486"
+       y="19.127274"
+       id="text54-7-8"
+       inkscape:transform-center-x="0.79731247"
+       inkscape:transform-center-y="3.1891366"><tspan
+         sodipodi:role="line"
+         id="tspan52-9-8"
+         x="41.171486"
+         y="19.127274"
+         style="stroke-width:0.037639">parla a israele 631 comandamenti</tspan></text>
+    <text
+       id="text212-1"
+       y="45.407341"
+       x="41.097675"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318798"
        xml:space="preserve"><tspan
          style="stroke-width:0.0318798"
-         y="47.444801"
-         x="41.02808"
-         id="tspan210-8-4"
-         sodipodi:role="line">demone entra </tspan></text>
+         y="45.407341"
+         x="41.097675"
+         id="tspan210-8"
+         sodipodi:role="line">progetto sapeva Yahweh e Gesu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
-       x="146.15707"
-       y="47.765358"
-       id="text212-0"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318798"
+       x="41.02808"
+       y="47.444801"
+       id="text212-1-6"><tspan
          sodipodi:role="line"
-         id="tspan210-80"
-         x="146.15707"
-         y="47.765358"
-         style="stroke-width:0.0318799">step2  Gesu  =DIo</tspan></text>
+         id="tspan210-8-4"
+         x="41.02808"
+         y="47.444801"
+         style="stroke-width:0.0318798">demone entra </tspan></text>
     <text
-       id="text212-0-8"
-       y="45.234314"
-       x="145.49596"
+       id="text212-0"
+       y="48.237827"
+       x="172.8989"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
        xml:space="preserve"><tspan
          style="stroke-width:0.0318799"
-         y="45.234314"
-         x="145.49596"
+         y="48.237827"
+         x="172.8989"
+         id="tspan210-80"
+         sodipodi:role="line">step2  Gesu  =DIo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
+       x="172.23778"
+       y="45.706783"
+       id="text212-0-8"><tspan
+         sodipodi:role="line"
          id="tspan210-80-7"
-         sodipodi:role="line">step1  Yahweh =DIo</tspan></text>
+         x="172.23778"
+         y="45.706783"
+         style="stroke-width:0.0318799">step1  Yahweh =DIo</tspan></text>
     <a
-       xlink:href="https://youtu.be/eqpBiJ8CQcg?t=1773"
-       id="a342">
+       transform="translate(26.741816,0.47247024)"
+       id="a342"
+       xlink:href="https://youtu.be/eqpBiJ8CQcg?t=1773">
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
-         x="146.40277"
+         id="text212-0-88"
          y="49.681755"
-         id="text212-0-88"><tspan
-           sodipodi:role="line"
-           id="tspan210-80-70"
-           x="146.40277"
+         x="146.40277"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.0318799"
            y="49.681755"
-           style="stroke-width:0.0318799">step3 divinizzare Maria CONSIGLIO EFESO</tspan></text>
+           x="146.40277"
+           id="tspan210-80-70"
+           sodipodi:role="line">step3 divinizzare Maria CONSIGLIO EFESO</tspan></text>
     </a>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
-       x="144.64552"
-       y="38.619732"
-       id="text212-0-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan210-80-7-5"
-         x="144.64552"
-         y="38.619732"
-         style="stroke-width:0.0318799">PRETI</tspan></text>
-    <text
-       id="text212-0-8-2-0"
-       y="51.561829"
-       x="144.88297"
+       id="text212-0-8-2"
+       y="39.092201"
+       x="171.38734"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
        xml:space="preserve"><tspan
          style="stroke-width:0.0318799"
-         y="51.561829"
-         x="144.88297"
+         y="39.092201"
+         x="171.38734"
+         id="tspan210-80-7-5"
+         sodipodi:role="line">PRETI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34095px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0318799"
+       x="171.62479"
+       y="52.034298"
+       id="text212-0-8-2-0"><tspan
+         sodipodi:role="line"
          id="tspan210-80-7-5-6"
-         sodipodi:role="line">distinguo venerare Dio, adorare divinita minori Gesu, padre pio..</tspan></text>
+         x="171.62479"
+         y="52.034298"
+         style="stroke-width:0.0318799">distinguo venerare Dio, adorare divinita minori Gesu, padre pio..</tspan></text>
+    <text
+       id="text73"
+       y="3.6539428"
+       x="126.0312"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.9788px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0945918"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0945918"
+         y="3.6539428"
+         x="126.0312"
+         id="tspan71"
+         sodipodi:role="line">eva</tspan></text>
+    <text
+       transform="scale(1.0415165,0.9601384)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0429467;"
+       x="125.00687"
+       y="13.240842"
+       id="text73-7"><tspan
+         sodipodi:role="line"
+         id="tspan71-9"
+         x="125.00687"
+         y="13.240842"
+         style="stroke-width:0.0429467;fill:#ff0000;">peccato originale</tspan></text>
+    <text
+       id="text73-7-0"
+       y="9.9537182"
+       x="122.646"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+       xml:space="preserve"
+       transform="scale(1.0415165,0.96013841)"><tspan
+         style="stroke-width:0.0429466"
+         y="9.9537182"
+         x="122.646"
+         id="tspan71-9-3"
+         sodipodi:role="line">mangiare mela = possibile atto sessuale</tspan></text>
+    <a
+       xlink:href="https://youtu.be/wSHIQrZyDhU?t=5735"
+       id="a129">
+      <text
+         transform="scale(1.0415165,0.96013841)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+         x="141.42656"
+         y="13.201482"
+         id="text73-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan71-9-6"
+           x="141.42656"
+           y="13.201482"
+           style="stroke-width:0.0429466">paolo,cialtrone agostino</tspan></text>
+    </a>
+    <a
+       style="fill:#ff0000"
+       transform="translate(-24.779534,29.52939)"
+       id="a129-3"
+       xlink:href="https://youtu.be/wSHIQrZyDhU?t=5735">
+      <text
+         id="text73-7-3-8"
+         y="10.54422"
+         x="141.69875"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466;"
+         xml:space="preserve"
+         transform="scale(1.0415165,0.96013841)"><tspan
+           style="fill:#000000;stroke-width:0.0429466;"
+           y="10.54422"
+           x="141.69875"
+           id="tspan71-9-6-1"
+           sodipodi:role="line">gesu=re ebrei unto,circonciso, mangia,caga</tspan></text>
+      <text
+         transform="scale(1.0415165,0.96013842)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466;"
+         x="143.5621"
+         y="12.906231"
+         id="text73-7-3-8-7"><tspan
+           sodipodi:role="line"
+           id="tspan71-9-6-1-9"
+           x="143.5621"
+           y="12.906231"
+           style="fill:#000000;stroke-width:0.0429466;">non e' dio </tspan></text>
+      <text
+         id="text73-7-3-8-7-0"
+         y="16.727161"
+         x="141.61652"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+         xml:space="preserve"
+         transform="scale(1.0415165,0.96013842)"><tspan
+           style="fill:#000000;stroke-width:0.0429466"
+           y="16.727161"
+           x="141.61652"
+           id="tspan71-9-6-1-9-5"
+           sodipodi:role="line">maria </tspan></text>
+      <a
+         transform="translate(-0.47247024,3.3072917)"
+         xlink:href="https://youtu.be/wSHIQrZyDhU?t=5787"
+         id="a210">
+        <text
+           id="text73-7-3-8-7-0-8"
+           y="19.286007"
+           x="143.80836"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:35.6003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+           xml:space="preserve"
+           transform="scale(1.0415165,0.96013842)"><tspan
+             x="143.80836"
+             y="19.286007"><tspan
+               style="fill:#000000;stroke-width:0.0429466">immacolata concezione </tspan><tspan
+               style="fill:#ff0000">dogma 1854 pio9</tspan></tspan></text>
+      </a>
+      <a
+         transform="translate(-0.89296368,2.2870428)"
+         style="fill:#ff0000"
+         id="a210-0"
+         xlink:href="https://youtu.be/wSHIQrZyDhU?t=5787">
+        <text
+           transform="scale(1.0415165,0.96013842)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+           x="143.98982"
+           y="17.219248"
+           id="text73-7-3-8-7-0-8-3"><tspan
+             sodipodi:role="line"
+             id="tspan71-9-6-1-9-5-5-8"
+             x="143.98982"
+             y="17.219248"
+             style="fill:#ff0000;stroke-width:0.0429466">da concilio efeso = 4secolo dc madre di dio</tspan></text>
+        <text
+           id="text73-7-3-8-7-0-8-3-4"
+           y="21.540646"
+           x="143.98901"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+           xml:space="preserve"
+           transform="scale(1.0415165,0.96013842)"><tspan
+             style="fill:#000000;stroke-width:0.0429466"
+             y="21.540646"
+             x="143.98901"
+             id="tspan71-9-6-1-9-5-5-8-8"
+             sodipodi:role="line" /></text>
+      </a>
+      <a
+         inkscape:transform-center-y="-2.5513393"
+         inkscape:transform-center-x="-0.75595239"
+         style="fill:#ff0000"
+         id="a210-3"
+         xlink:href="https://youtu.be/wSHIQrZyDhU?t=5787"
+         transform="translate(0.61870243,5.2163582)">
+        <text
+           transform="scale(1.0415165,0.96013842)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.80646px;line-height:17.85;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:35.6003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0429466"
+           x="143.80836"
+           y="19.286007"
+           id="text73-7-3-8-7-0-8-2"><tspan
+             x="143.80836"
+             y="19.286007"><tspan>no peccato originale non senza sesso</tspan></tspan></text>
+      </a>
+    </a>
   </g>
 </svg>
